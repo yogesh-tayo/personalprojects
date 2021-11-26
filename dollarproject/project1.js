@@ -2,7 +2,7 @@
 let mass=document.getElementById("BMI");
 let height=document.getElementById("Res1");
 let button=document.getElementById("btn");
-// function bmi(){
+
 mass.addEventListener('input',function(){
     let h=this.value;
     let re=h*70;
