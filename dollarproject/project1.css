@@ -1,0 +1,37 @@
+body{  
+    padding: 20px;
+    background-color: rgb(45, 6, 134);
+    color: rgb(104, 226, 169);
+    text-align: center;
+
+
+}
+#calculation,#res{
+    color: rgb(70, 87, 243);
+    padding: 5px 10px;
+    display: inline-flex;
+}
+#btn{
+    padding: 5px 40px;
+    margin-top: 10px;
+}
+#container{
+    background-color: rgb(243, 224, 162);
+    padding: 20px 10px;
+}
+#ResultValue{
+    background-color: firebrick;
+    padding: 100px 100px;
+    margin-top: 10px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#kk,#mm{
+    padding:10px;
+}
+h2{
+    color: gold;
+}
+
