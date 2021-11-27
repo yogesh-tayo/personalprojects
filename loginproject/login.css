@@ -1,0 +1,18 @@
+body{
+    background-color: palegreen;
+    border: 1px coral;
+    margin-block-start: 10px;
+}
+#container{
+    background-color: darkgoldenrod;
+    color: rgb(0, 139, 23);
+    font-size: larger;
+    font-weight: bold;
+    padding: 55px 50px;
+    text-align: center;
+}
+#btn{
+    color: darksalmon;
+    background-color: darkslategrey;
+    padding-left: 10px 30px;
+}
